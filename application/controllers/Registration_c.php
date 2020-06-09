@@ -38,7 +38,7 @@
 			}
 
 
-				public function registData()
+				public function registData()     //Form Data
 				{
 					 	
     				 	$data["name"]=$_POST["myName"];
